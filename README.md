@@ -1,5 +1,5 @@
 # My-Profile
-# Zhaorui Lian（改成你的真实中文名）
+# Zhaorui Lian
 
 Engineer · Hangzhou, China
 
