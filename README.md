@@ -1,7 +1,7 @@
 # My-Profile
 # Zhaorui Lian（改成你的真实中文名）
 
-Engineer @ [Ant Group](lianzhaorui.lzr@antgroup.com) · Hangzhou, China
+Engineer @ (lianzhaorui.lzr@antgroup.com) · Hangzhou, China
 
 **Email:** your.email@antgroup.com
 
